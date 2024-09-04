@@ -2,7 +2,7 @@
 export default function Blog() {
   return (
     <div>
-              <p>Blog page</p>
+      <p className="title">Blog page</p>
     </div>
   )
 }
